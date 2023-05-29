@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Navigation from "./components/Navigation";
 
-const App = () => {
+function App() {
     const [pages] = useState([
         { name: "about me" },
         { name: "portfolio" },
