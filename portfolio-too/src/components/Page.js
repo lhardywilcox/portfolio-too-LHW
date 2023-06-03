@@ -10,8 +10,8 @@ export default function Page() {
 
     // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
     const renderPage = () => {
-        if (currentPage === 'About Me') {
-            return <About />;
+        if (currentPage === 'Contact') {
+            return <Contact />;
         }
         if (currentPage === 'Portfolio') {
             return <Portfolio />;
@@ -19,9 +19,8 @@ export default function Page() {
         if (currentPage === 'Resume') {
             return <Resume />;
         }
-        if (currentPage === 'Contact') {
-            return <Contact />;
-        }
+        return <About />;
+        
     };
 
     const handlePageChange = (page) => setCurrentPage(page);

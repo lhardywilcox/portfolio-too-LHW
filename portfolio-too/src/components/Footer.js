@@ -2,8 +2,8 @@ import React from 'react';
 
 export default function Footer() {
     return (
-        <div>
+        <footer>
             <h3>Thank you for your consideration!</h3>
-        </div>
+        </footer>
     );
 }

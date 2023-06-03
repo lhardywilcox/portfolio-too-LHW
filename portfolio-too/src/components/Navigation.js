@@ -39,6 +39,6 @@ export default function Navigation({ currentPage, handlePageChange }) {
                     Resume
                 </a>
             </li>
-        </ul>
+        </ul> 
     );
 }
