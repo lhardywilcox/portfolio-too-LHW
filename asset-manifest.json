@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-too-LHW/static/css/main.22ce877f.css",
+    "main.js": "/portfolio-too-LHW/static/js/main.520ff44f.js",
+    "index.html": "/portfolio-too-LHW/index.html",
+    "main.22ce877f.css.map": "/portfolio-too-LHW/static/css/main.22ce877f.css.map",
+    "main.520ff44f.js.map": "/portfolio-too-LHW/static/js/main.520ff44f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ce877f.css",
+    "static/js/main.520ff44f.js"
+  ]
+}
