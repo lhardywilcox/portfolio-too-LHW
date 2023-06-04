@@ -34,15 +34,15 @@ To view the portfolio, please visit:
 
  On the application's home page, the user can read a little information about me.
 
- SCREENSHOT OF HOME PAGE HERE
+ ![Home-Page](/portfolio-too/assets/Home-Page.png)
 
  From there they can click on links to view the remaining sections of the application.
 
- SCREENSHOT OF PORTFOLIO PAGE
+ ![Portfolio](/portfolio-too/assets/Portfolio.png)
 
- SCREENSHOT OF CONTACT PAGE
+ ![Contact](/portfolio-too/assets/Contact.png)
 
- SCREENSHOT OF RESUME PAGE 
+ ![Resume](/portfolio-too/assets/Resume.png) 
  
 ## Credits
 
